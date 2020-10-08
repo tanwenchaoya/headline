@@ -1,0 +1,15 @@
+@import "reset.scss";
+html{
+  height: 100%;
+  font-size: 1.2rem !important;
+
+  body{
+    height: 100%;
+
+    .app{
+      height: 100%;
+      position: relative;
+      background-color: #f5f7f8;
+    }
+  }
+}
